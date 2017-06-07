@@ -1,4 +1,0 @@
-Sitemap: http://ibeinccom.ipage.com/sitemap.xml
-
-User-agent: *
-Disallow: 
